@@ -60,6 +60,7 @@ cb(10)
 cb(2)
 // val incremented 12
 
+someObj = null
 gc() // force gc collection
 
 cb(3)
